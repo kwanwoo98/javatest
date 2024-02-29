@@ -1,6 +1,6 @@
 package javatest;
 
-public class javatest2 {
+public class javatest3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
