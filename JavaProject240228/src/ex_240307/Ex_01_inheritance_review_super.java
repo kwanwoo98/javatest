@@ -1,6 +1,6 @@
-package javatest;
+package ex_240307;
 
-public class javatest {
+public class Ex_01_inheritance_review_super {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
